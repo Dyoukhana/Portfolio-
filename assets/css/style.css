@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+    background: rgb(166, 172, 86);
+    padding: 30px;
+    width: 130px;
+    text-align: center
+}
+ h2{
+     
+ }
+
+ p{
+     font-size: 20px;
+     width: 530px;
+     }
+.container{ width: 800px;
+margin: 0 auto;
+}
